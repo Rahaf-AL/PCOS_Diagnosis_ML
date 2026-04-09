@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PCOS_Diagnosis_ML
 =======
 # 🩺 Polycystic Ovary Syndrome (PCOS): Diagnosis & Analysis
@@ -44,5 +43,5 @@ To ensure accurate analysis and model performance, the following data convention
 
 ---
 
-*Created with ❤️ for Data Science & Women's Health.*
->>>>>>> 4a07a6c (Initial commit with PCOS analysis)
+
+
